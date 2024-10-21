@@ -10,7 +10,6 @@
 ### Step 1: Clone Repository 
 ### Step 2:
 Run all microservices **(Eureka-service is the service discovery)**
-```
 ### Step 3: finally try some requests to test the app using postman
 
 ## some links to test with:
